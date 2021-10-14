@@ -1,1 +1,1 @@
-var awesomeVal = 1s
+var awesomeVal = 1
